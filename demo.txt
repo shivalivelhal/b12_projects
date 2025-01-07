@@ -1,1 +1,4 @@
 sample file to test git
+
+hi
+i am doing changes from github
